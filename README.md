@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-09-29 at 21 22 19_7228f0f1](https://github.com/user-attachments/assets/a36ee2fc-73d3-45e9-9e40-40f3e2db4478)AI-Enhanced Quantum Computing Simulator
+
 Overview
 
 This project is an interactive Python-based simulator that allows users to build, simulate, and optimize quantum circuits. It integrates classical AI techniques to automatically optimize quantum gates for target quantum states, providing rich visualizations and quantum metrics.
